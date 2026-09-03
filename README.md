@@ -8,7 +8,7 @@ Wealth Management BI Suite. Illustrative dashboard built with synthetic data.
 
 | File | What it is |
 |---|---|
-| `Advisor_Book_Overview.twbx` | Packaged Tableau workbook, data included |
+| `Advisor Book Overview.twbx` | Packaged Tableau workbook, data included |
 | `advisor_book_monthly.csv` | Synthetic account-month fact table, 12,393 rows |
 | `holdings_current.csv` | Synthetic current allocation by account, 2,510 rows |
 | `Preferences.tps` | Custom color palettes |
